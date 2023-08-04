@@ -44,7 +44,6 @@ As a recent graduate of the UC Berkeley FullStack Web Developer Bootcamp, I am p
 
 <a href="http://www.github.com/mackarimi"><img src="https://github-readme-stats.vercel.app/api?username=mackarimi&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="mackarimi's GitHub stats" /></a>
 
-<a href="http://www.github.com/mackarimi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mackarimi&stroke=3382ed&background=000000&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="http://www.github.com/mackarimi">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mackarimi&bg_color=000000&color=3382ed&line=22c55e&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
